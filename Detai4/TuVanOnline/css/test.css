@@ -1,0 +1,23 @@
+wrap{
+	width:800px;
+	margin:auto;
+	float:center-right;
+}
+left{
+	width:250px;height:800px;
+	float:left;
+}
+header{
+	width:800px;
+	height:60px;
+	float:left;
+}
+containt{
+	width:800px;
+	height:600px;
+	float:left;
+}
+footer{
+	width:800px;
+	height:40px;
+}
